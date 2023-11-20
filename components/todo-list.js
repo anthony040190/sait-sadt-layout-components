@@ -4,7 +4,7 @@ export default function ToDoList({ tasks }) {
 
     return (
         <ScrollView>
-            {
+            {/* {
                 tasks.map(task => {
                     return (    
                         <Pressable>
@@ -14,7 +14,7 @@ export default function ToDoList({ tasks }) {
                         </Pressable>
                     )
                 })
-            }
+            } */}
         </ScrollView>
     );
 }
